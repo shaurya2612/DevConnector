@@ -11,12 +11,8 @@ const Navbar = () => {
   const authLinks = (
     <ul>
       <li>
-        <Link to="/profiles">
-          Developers
-        </Link>
-        <Link to="/posts">
-          Posts
-        </Link>
+        <Link to="/profiles">Developers</Link>
+        <Link to="/posts">Posts</Link>
         <Link to="/dashboard">
           <i className="fas fa-user" />{" "}
           <span className="hide-sm">Dashboard</span>
@@ -37,9 +33,6 @@ const Navbar = () => {
   );
   const guestLinks = (
     <ul>
-      <li>
-        <Link to="#!">Developers</Link>
-      </li>
       <li>
         <Link to="/register">Register</Link>
       </li>

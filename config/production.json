@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Shaurya:shaurya26@cluster0.nzyj5.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "jwtSecret":"mysecretoken",
+    "githubClientId": "763aa5a0a949989c258a",
+    "githubSecret": "a863b2b03aa41ad0033c15fe768dc5288d964d23"
+}
